@@ -1,6 +1,12 @@
+---
+title: "Sergio Andres Martinez E."
+output:
+  html_document:
+    toc: yes
+pagetitle: CCV D - Sergio Andres Martinez E.
+---
 
-Sergio Andrés Martinez Espitia
-===========================================
+### Developer Front End SemiSenior
 
 
 Personal Details
@@ -50,7 +56,7 @@ Learnig
 Experience
 ----------
 2019-currently
-:	*Ditech Col outsourcing Casa Editorial el Tiempo*  
+:	*Ditech Col Outsourcing Casa Editorial el Tiempo*  
 	[Ditech](https://ditech.es/)  
 	Front end semi senior developer. 
 	Desarrollo y construcción de aplicativos web en Tecnologías Javascript con Typescrypt / Node.js, npm, yarn, Angular 8,
@@ -110,7 +116,7 @@ Spanish
 :	Native
 
 English
-:	Intemedio
+:	Intermedio
 
 
 Other interests

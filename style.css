@@ -30,7 +30,12 @@ h1 {
 
 /* Titles of categories */
 h2 {
-    color: #FF7417;
+    color: DARKCYAN;
+}
+h3 {
+    text-align: right;
+    color: gainsboro;
+    font-style: italic;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -39,10 +44,10 @@ h2:before {
     margin-right:1%;
     width: 16%;
     height: 10px;
-    background-color: #FF924A;
+    background-color: LIGHTSEAGREEN;
 }
 h2:hover {
-    background-color: #FF7417;
+    background-color: DARKCYAN;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
@@ -70,10 +75,10 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #FF7417;
+    color: DARKCYAN;
 }
 a:hover, a:active {
-    color: #ED6C15;
+    color: teal;
     text-decoration: underline;
 }
 
